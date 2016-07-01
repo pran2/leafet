@@ -61,6 +61,6 @@ L.marker([51.51868, -0.08944], {icon: greenIcon}).addTo(map);
 
 	
 </script> 
-<img src="leafet/Plane.png" style="max-width:100%" alt="Photo of Routeburn Flats, on the Routeburn Track in New Zealand." />
+<img src="Plane.png" style="max-width:100%" alt="Photo of Routeburn Flats, on the Routeburn Track in New Zealand." />
 </body> 
 </html> 
