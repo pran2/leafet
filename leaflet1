@@ -61,5 +61,6 @@ L.marker([51.51868, -0.08944], {icon: greenIcon}).addTo(map);
 
 	
 </script> 
+<img src='leafet/Plane.png'>
 </body> 
 </html> 
