@@ -8,8 +8,15 @@
 
 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" /> 
 </head> 
-<body> 
-<div id="mapid" style="width: 1200px; height: 1200px"></div> 
+body {
+    padding: 0;
+    margin: 0;
+}
+html, body, #map {
+    height: 100%;
+}
+//<body> 
+//<div id="mapid" style="width: 1200px; height: 1000px"></div> 
 
 <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script> 
 <script> 
